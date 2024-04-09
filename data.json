@@ -1,0 +1,11 @@
+[
+    { "name": "John Doe", "age": 30, "city": "New York" },
+    { "name": "Jane Smith", "age": 25, "city": "Los Angeles" },
+    { "name": "Alice Johnson", "age": 35, "city": "Chicago" },
+    { "name": "Philip Rivers", "age": 35, "city": "San Diego" },
+    { "name": "Molly bang", "age": 30, "city": "San Fransisco" },
+    { "name": "LEbron JAmes", "age": 25, "city": "Akrin" },
+    { "name": "John Cena", "age": 25, "city": "carson city" },
+    { "name": "MArk Henry", "age": 35, "city": "austin " }
+    
+]
